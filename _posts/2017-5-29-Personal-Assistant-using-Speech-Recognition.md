@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personal Asistant using Speech Recognition
+title: Personal Assistant using Speech Recognition
 ---
 
 ![speech_recog.png](http://copia.com.au/wp-content/themes/copia/images/medicalspeech.png)
