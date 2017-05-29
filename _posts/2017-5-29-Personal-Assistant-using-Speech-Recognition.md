@@ -107,4 +107,4 @@ while 1:
     jarvis(data)
 ```
 
-## So ready to built your own personal assistant?
+## So are you ready to built your own personal assistant?
