@@ -32,7 +32,7 @@ Sistem yang memiliki fasilitas *Speech Recognition* akan mengambil data dari dal
 
 # Let's see the Demo!
 ## *Google Assistant*
-![google_asisstant.gif]({{ site.baseurl }}/images/2017-5-29-Personal-Asistant-using-Speech-Recognition/google.gif)
+![google_asisstant.gif](https://i.kinja-img.com/gawker-media/image/upload/s--fakpVmLm--/c_scale,fl_progressive,q_80,w_800/mebn1kjo7jylfhmakgfw.gif)
 (taken from [Google Assistant Is a Mega AI Bot That Wants To Be Absoutely Everywhere](http://gizmodo.com/google-assistant-is-a-mega-chatbot-that-wants-to-be-abs-1777351140))
 
 ## *Siri*
