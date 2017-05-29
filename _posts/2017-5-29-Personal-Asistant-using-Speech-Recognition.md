@@ -21,7 +21,7 @@ Sebut saja aplikasi seperti *Siri* kepunyaan *Apple*, *Google Now* dan *Google A
 
 Bagaimana aplikasi tersebut dapat bekerja?
 
-> Yeah, the answer is **Speech Recognition**
+## Yeah, the answer is **Speech Recognition**
 
 > Speech recognition is the ability of a machine or program to identify words and phrases in spoken language and convert them to a machine-readable format.
 (taken from [Speech Recognition](http://searchcrm.techtarget.com/definition/speech-recognition))
