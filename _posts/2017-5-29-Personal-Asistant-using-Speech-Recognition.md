@@ -3,7 +3,8 @@ layout: post
 title: Personal Asistant using Speech Recognition
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+A personal assistant, also referred to as personal aide (PA) or personal secretary (PS), is a job title describing a person who assists a specific person with their daily business or personal tasks.
+(taken from [Personal Assistan Wikipedia](https://en.wikipedia.org/wiki/Personal_assistant))
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
