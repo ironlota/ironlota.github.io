@@ -12,8 +12,6 @@ Ray Andrew Obaja Sinurat
 
 Currently do-something-useful at *Informatics Engineering* Bandung Institute of Technology, Indonesia
 
-[!itb.maps](https://www.google.com/maps/d/embed?mid=1lDG4SmFHWTKwVXQR01hGlEwSIKE&hl=en_US)
-
 ### Contact me
 
 [raydreww@gmail.com](mailto:raydreww@gmail.com)
