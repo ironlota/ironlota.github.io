@@ -3,6 +3,9 @@ layout: post
 title: Personal Asistant using Speech Recognition
 ---
 
+![speech_recog.png](http://copia.com.au/wp-content/themes/copia/images/medicalspeech.png)
+(taken from [Speech Recognition](http://copia.com.au/medical-speech-recognition/))
+
 # Definition
 
 > A personal assistant, also referred to as personal aide (PA) or personal secretary (PS), is a job title describing a person who assists a specific person with their daily business or personal tasks.
@@ -19,9 +22,6 @@ Sebut saja aplikasi seperti *Siri* kepunyaan *Apple*, *Google Now* dan *Google A
 Bagaimana aplikasi tersebut dapat bekerja?
 
 > Yeah, the answer is **Speech Recognition**
-
-![speech_recog.png](http://copia.com.au/wp-content/themes/copia/images/medicalspeech.png)
-(taken from [Speech Recognition](http://copia.com.au/medical-speech-recognition/))
 
 > Speech recognition is the ability of a machine or program to identify words and phrases in spoken language and convert them to a machine-readable format.
 (taken from [Speech Recognition](http://searchcrm.techtarget.com/definition/speech-recognition))
