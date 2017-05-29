@@ -20,5 +20,5 @@ Bagaimana aplikasi tersebut dapat bekerja?
 
 > Yeah, the answer is **_ Speech Recognition _**
 
-![_speech_recog.png](http://copia.com.au/wp-content/themes/copia/images/medicalspeech.png)
+![speech_recog.png](http://copia.com.au/wp-content/themes/copia/images/medicalspeech.png)
 (taken from [Speech Recognition](http://copia.com.au/medical-speech-recognition/))
