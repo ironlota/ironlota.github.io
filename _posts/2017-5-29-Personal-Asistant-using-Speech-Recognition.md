@@ -16,8 +16,9 @@ Sebut saja aplikasi seperti *Siri* kepunyaan *Apple*, *Google Now* dan *Google A
 
 # How it Works?
 
-> Bagaimana aplikasi tersebut dapat bekerja?
+Bagaimana aplikasi tersebut dapat bekerja?
 
-## Speech Recognition
+> Yeah, the answer is **_ Speech Recognition _**
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![_speech_recog.png](http://copia.com.au/wp-content/themes/copia/images/medicalspeech.png)
+(taken from [Speech Recognition](http://copia.com.au/medical-speech-recognition/))
