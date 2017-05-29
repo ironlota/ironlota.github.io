@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Ray Andrew Obaja Sinurat
+*13515073*
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently do-something-useful at *Informatics Engineering* Bandung Institute of Technology, Indonesia
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[raydreww@gmail.com](mailto:raydreww@gmail.com)
+[13515073@std.stei.itb.ac.id](mailto:13515073@std.stei.itb.ac.id)
