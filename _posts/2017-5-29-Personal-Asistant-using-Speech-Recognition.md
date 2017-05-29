@@ -18,7 +18,7 @@ Sebut saja aplikasi seperti *Siri* kepunyaan *Apple*, *Google Now* dan *Google A
 
 Bagaimana aplikasi tersebut dapat bekerja?
 
-> Yeah, the answer is **_ Speech Recognition _**
+> Yeah, the answer is **Speech Recognition**
 
 ![speech_recog.png](http://copia.com.au/wp-content/themes/copia/images/medicalspeech.png)
 (taken from [Speech Recognition](http://copia.com.au/medical-speech-recognition/))
